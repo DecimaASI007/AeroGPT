@@ -45,7 +45,7 @@ Open Source: Released for public use to encourage innovation and enhance the ove
 # Installation
 # Clone the Repository
 
-git clone https://github.com/AeroGPT/aerogpt.git
+git clone https://github.com/DecimaASI007/aerogpt.git
 
 cd aerogpt
 
